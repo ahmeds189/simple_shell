@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: main.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * main - entry point
  * @ac: arg count
