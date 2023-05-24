@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: memory_fn_1.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  **_memset - fills memory with a constant byte
  *@s: the pointer to the memory area
