@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: liststr_2.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * list_len - determines length of linked list
  * @h: pointer to first node
