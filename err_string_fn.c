@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: err_string_fn.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  *_eputs - prints an input string
  * @str: the string to be printed
