@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: _env_2.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * get_environ - returns the string array copy of our environ
  * @info: Structure containing potential arguments. Used to maintain
