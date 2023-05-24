@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: hsh.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * hsh - main shell loop
  * @info: the parameter & return info struct
