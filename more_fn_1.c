@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: more_fn_1.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * interactive - returns true if shell is interactive mode
  * @info: struct address
