@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: more_fn_2.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * _erratoi - converts a string to an integer
  * @s: the string to be converted
