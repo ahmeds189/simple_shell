@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: memory_fn_2.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * bfree - frees a pointer and NULLs the address
  * @ptr: address of the pointer to free
