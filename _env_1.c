@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: _env_1.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * _myenv - prints the current environment
  * @info: Structure containing potential arguments. Used to maintain
