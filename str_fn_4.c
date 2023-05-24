@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: str_fn_4.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * **strtow - splits a string into words. Repeat delimiters are ignored
  * @str: the input string
