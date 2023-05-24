@@ -165,13 +165,13 @@ void *_realloc(void *, unsigned int, unsigned int);
 /* prototype for memory functions 2 (memory_fn_2.c) */
 int bfree(void **);
 
-/* prototype for more_functions.c */
+/* prototype for more functions 1 (more_fn_1) */
 int interactive(info_t *);
 int is_delim(char, char *);
 int _isalpha(int);
 int _atoi(char *);
 
-/* prototype for more_functions2.c */
+/* prototype for more functions 2 (more_fn_2) */
 int _erratoi(char *);
 void print_error(info_t *, char *);
 int print_d(int, int);
@@ -197,14 +197,14 @@ void clear_info(info_t *);
 void set_info(info_t *, char **);
 void free_info(info_t *, int);
 
-/* prototype for env.c module */
+/* prototype for env 1 module (_env_1.c) */
 char *_getenv(info_t *, const char *);
 int _myenv(info_t *);
 int _mysetenv(info_t *);
 int _myunsetenv(info_t *);
 int populate_env_list(info_t *);
 
-/* prototype for env2.c module */
+/* prototype for env 2 module (_env_2.c) */
 char **get_environ(info_t *);
 int _unsetenv(info_t *, char *);
 int _setenv(info_t *, char *, char *);
