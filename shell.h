@@ -157,12 +157,12 @@ char *_strchr(char *, char);
 char **strtow(char *, char *);
 char **strtow2(char *, char);
 
-/* prototype for memory_functions */
+/* prototype for memory functions 1 (memory_fn_1.c) */
 char *_memset(char *, char, unsigned int);
 void ffree(char **);
 void *_realloc(void *, unsigned int, unsigned int);
 
-/* prototype for memory_functions2.c */
+/* prototype for memory functions 2 (memory_fn_2.c) */
 int bfree(void **);
 
 /* prototype for more_functions.c */
