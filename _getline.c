@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: _getline.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * input_buf - buffers chained commands
  * @info: parameter struct
