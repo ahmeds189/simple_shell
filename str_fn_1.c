@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: str_fn_1.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * _strlen - returns the length of a string
  * @s: the string whose length to check
