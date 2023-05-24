@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: str_fn_2.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * _strcpy - copies a string
  * @dest: the destination
