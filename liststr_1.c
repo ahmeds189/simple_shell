@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: liststr_1.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * add_node - adds a node to the start of the list
  * @head: address of pointer to head node
