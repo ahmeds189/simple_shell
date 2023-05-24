@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: _info.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * clear_info - initializes info_t struct
  * @info: struct address
