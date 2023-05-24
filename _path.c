@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: _path.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * is_cmd - determines if a file is an executable command
  * @info: the info struct
