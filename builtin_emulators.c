@@ -1,5 +1,11 @@
 #include "shell.h"
 
+/*
+ * File: builin_emulators.c
+ * Auth: Ahmed Said
+ *       Ihsane Ahdi
+ */
+
 /**
  * _myexit - exits the shell
  * @info: Structure containing potential arguments. Used to maintain
